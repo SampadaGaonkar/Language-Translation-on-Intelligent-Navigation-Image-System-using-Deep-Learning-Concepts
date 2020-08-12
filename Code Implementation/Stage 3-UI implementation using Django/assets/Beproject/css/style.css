@@ -1,0 +1,9 @@
+
+@font-face {
+  font-family:'DancingScript';
+  src: url("{% static 'fonts/DancingScript-Regular.ttf' %}");
+} 
+ h2 {
+ 	text-align: center;
+ 	text-align-last: left;
+ }
